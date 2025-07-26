@@ -1,18 +1,30 @@
-## Getting Started
+# 💻 ContaBanco - Desafio de Sintaxe em Java #
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como exercício prático para reforçar os conceitos de sintaxe básica em Java, com foco em entrada de dados via terminal, declaração de variáveis, uso da classe Scanner e manipulação de strings.
 
-## Folder Structure
+## 🧾 Descrição do Projeto ##
 
-The workspace contains two folders by default, where:
+O projeto simula a criação de uma conta bancária por meio do terminal. O usuário insere informações como número da conta, agência, nome do cliente e saldo inicial. Após o preenchimento dos dados, o sistema retorna uma mensagem formatada com todas as informações fornecidas. Exemplo: Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Objetivos abordados:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Praticar declaração de variáveis
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Utilizar entrada de dados via terminal (Scanner)
 
-## Dependency Management
+* Trabalhar com a função main e argumentos args
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Aplicar concatenação de strings
+
+## 🛠️ Tecnologias Utilizadas ##
+
+* Java 21 
+
+* IDE ultilizada: VSCode
+
+## 📚 Aprendizados ##
+
+Este exercício reforça a importância da clareza na entrada e saída de dados, o uso correto de tipos primitivos e o domínio da estrutura básica de um programa Java orientado a terminal.
+
+## ✍️ Autor ##
+Desafio proposto por **Gleyson Sampaio**, Bootcamp **Santander 2025 - Back-End com Java**, desenvolvido por **Fernanda Gobi**.
